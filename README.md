@@ -41,15 +41,15 @@ Having lived in Toronto and heard the same complaint over and over "the TTC is u
  
 <!-- IMAGE PLACEHOLDER 2 — from notebook cell 26 (stacked area chart of incidents by hour of day, by mode). Save as images/incidents_by_hour.png -->
 ![Incidents by hour of day](images/incidents_by_hour.png)
-*Incidents by hour — quiet overnight, sharp morning ramp, sustained afternoon peak at 2 PM.*
+*Incidents by hour: quiet overnight, sharp morning ramp, sustained afternoon peak at 2 PM.*
  
 <!-- IMAGE PLACEHOLDER 3 — from notebook cell 32 (worst 15 routes by total delay hours). Save as images/worst_routes.png -->
 ![Worst 15 routes by total delay hours](images/worst_routes.png)
-*Worst 15 routes by total delay-hours — streetcars dominate the top of the list.*
+*Worst 15 routes by total delay-hours: streetcars dominate the top of the list.*
  
 <!-- IMAGE PLACEHOLDER 4 — from notebook cells 39/41 (streetcar delay reasons: frequency and severity by code family). Save as images/streetcar_causes.png -->
 ![Streetcar delay causes](images/streetcar_causes.png)
-*Streetcar delays by cause family — Movement/Operations dominates volume.*
+*Streetcar delays by cause family : Movement/Operations dominates volume.*
  
 ---
  
